@@ -108,3 +108,4 @@ window.onload = function () {
 	const centerY = window.innerHeight / 2;
 	createFirework(centerX, centerY);
 };
+
